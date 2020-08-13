@@ -1,0 +1,3 @@
+com\xue\springcloud\entities\Dept.class
+com\xue\springcloud\service\DeptClientServiceFallbackFactory.class
+com\xue\springcloud\service\DeptClientService.class

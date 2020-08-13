@@ -1,0 +1,5 @@
+com\xue\springcloud\service\DeptService.class
+com\xue\springcloud\DeptProvider8003_App.class
+com\xue\springcloud\controller\DeptController.class
+com\xue\springcloud\service\impl\DeptServiceImpl.class
+com\xue\springcloud\mapper\DeptDao.class
