@@ -11,8 +11,13 @@
         <module name="microservicecloudcomsumer80" />
         <module name="microservicecloud-eureka-7003" />
         <module name="microservicecloud-eureka-7002" />
+        <module name="microservicecloudconsumerhystrixdashboard" />
         <module name="microservicecloudeureka7001" />
+        <module name="microservicecloudzuulgateway9527" />
         <module name="microservicecloudapi" />
+        <module name="microservicecloudproviderdept8001hystrix" />
+        <module name="microservicecloudconfig3344" />
+        <module name="microservicecloudconsumerfeign" />
         <module name="microservicecloudproviderdept8003" />
       </profile>
     </annotationProcessing>
